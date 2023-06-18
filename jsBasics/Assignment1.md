@@ -89,9 +89,25 @@ var A = 'Dolly';
 var a = 'Riya' ;
 ```
 Both are different!
+# Data Types
+##### JavaScript has 8 Datatypes
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
 
+##### The Object Datatype
+The object data type can contain:
 
-# JavaScript Operators
+1. An object
+2. An array
+3. A date
+
+# Operators
 
 JavaScript supports various operators for performing operations on values. These operators can be classified into different categories.
 
@@ -229,7 +245,7 @@ var x = 2;
 x **= 3; // Equivalent to: x = x ** 3;
 // Now x is 8
 ```
-# JavaScript Conditional Statements
+# Conditional Statements
 
  Conditional statements in JavaScript, which allow you to make decisions in your code based on certain conditions.
 
@@ -343,7 +359,7 @@ do {
 while (i < 10);
 ```
 
-## Array
+## Arrays
 The Array object is used to store multiple values in a single variable.
 
 + #### Creating an Array
@@ -384,10 +400,10 @@ console.log(myArray); // Output: ['apple', 'grape', 'orange']
 
 + forEach(): Executes a provided function once for each array element.
 
-###Object
+### Objects
 Objects are a fundamental data type in JavaScript that allow you to store key-value pairs.
 
-#####Creation 
+##### Creation 
 ```javascript
 const myObject = {
   key1: value1,
@@ -395,7 +411,7 @@ const myObject = {
   key3: value3
 };
 ```
-#####Accessing Object Properties
+##### Accessing Object Properties
 ```javascript
 const myObject = {
   name: 'John',
