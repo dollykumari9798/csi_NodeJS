@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  },
+  "name": "day3",
+  "version": "1.0.0",
+  "main": "expressIndex.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node expressIndex.js"
+  },
+  "author": "Dolly Kumari",
+  "license": "ISC",
+  "description": ""
+}
